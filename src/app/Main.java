@@ -1,6 +1,6 @@
 // Das app-Paket enthält den Einstiegspunkt, der die getrennten Fachpakete zur Anwendung verbindet.
 package app;
-
+// luka stinkt 
 // BigDecimal verarbeitet den eingegebenen Zahlungsbetrag ohne Rundungsfehler.
 import java.math.BigDecimal;
 // List wird für die Auswahl gespeicherter Subjects und Accounts benötigt.
