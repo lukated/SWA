@@ -1,0 +1,12 @@
+# Eclipse erzeugt den bin-Ordner bei jedem Build neu.
+/bin/
+
+# Kompilierte Java-Dateien gehören nicht in die Versionsverwaltung.
+*.class
+
+# Workspace-Metadaten sind lokal und dürfen nicht mit dem Projekt geteilt werden.
+.metadata/
+
+# Betriebssystemdateien enthalten keine Projektdaten.
+.DS_Store
+Thumbs.db
